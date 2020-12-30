@@ -30,4 +30,4 @@ Feel free to add your language version of the code!
 
 **Perfect match** - N/A.
 
-**Nice match** of 4 - Zvi Bazak.
+**Nice match** of 4 - Zvi Bazak: `md5('AGN04QP3DP74') = 444431252d6a104a05fe4a0c6a53a999`
