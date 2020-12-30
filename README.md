@@ -23,6 +23,11 @@ A `nice pattern` considers as one of the below:
    Example of `N=3`:
    
    `md5('CNFIVNSBBM86') = 555161f9f70ee828da527a6934596f61`
+
+3. **Gold MD5** - string that md5 of it equal to itself. 
+
+   Example - not found yet...
+
  
 Please see the attached Python code to run on your computer, and add a `pull request` if you find new one (a credit is promised!).
 
