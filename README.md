@@ -26,7 +26,7 @@ Please see the attached Python code to run on your computer, and add a `pull req
 
 Feel free to add your language version of the code!
 
-## Results:
+## Results
 
 **Perfect match** - N/A.
 
