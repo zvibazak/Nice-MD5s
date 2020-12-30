@@ -22,7 +22,9 @@ A `nice pattern` considers as one of the below:
    
    `md5('CNFIVNSBBM86') = 555161f9f70ee828da527a6934596f61`
  
-Please see the attached Python code to run on your computer, and post here if you find new one (credit promise!).
+Please see the attached Python code to run on your computer, and add a `pull request` if you find new one (a credit is promised!).
+
+Feel free to add your language version of the code!
 
 ## Results:
 
