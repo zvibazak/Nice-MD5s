@@ -31,5 +31,5 @@ Feel free to add your language version of the code!
 ## Results
 
 **Perfect match** - N/A.
-
-**Nice match** of 4 - Zvi Bazak: `md5('AGN04QP3DP74') = 444431252d6a104a05fe4a0c6a53a999`
+ 
+**Nice match** of 4 - Zvi Bazak: `md5('UPSCLU4P1EW7') = 7777759f258245119a1fe75ad393d91c`
