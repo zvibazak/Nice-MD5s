@@ -11,10 +11,10 @@ This is totaly a nonsence but let's find nice patterns of MD5s.
 A `nice pattern` considers as one of the below:
 | # | Name | Explanation | Example | 
 |:--|:------------- |:------------- |:-------------| 
-| 1 | **Perfect match** | md5 of one letter\digit | `00000000000000000000000000000000` | 
-| 2 | **Nice match** | md5 starts with N-same letter | `444431252d6a104a05fe4a0c6a53a999` (N=4)| 
+| 1 | **Perfect match** | md5 of one characters | `00000000000000000000000000000000` | 
+| 2 | **Nice match** | md5 starts with N-same characters | `444431252d6a104a05fe4a0c6a53a999` (N=4)| 
 | 3 | **Gold MD5** | md5 of it - equal to itself | `N/A` | 
-| 4 | **Limit char** | md5 contains only N letters | `12345612345612345612345612345612` (N=6)| 
+| 4 | **Limit char** | md5 contains only N characters | `12345612345612345612345612345612` (N=6)| 
 | 5 | **MD5 of digits** | md5 contains only digits | `25855924411269249612523541155616` | 
 | 6 | **MD5 of letters** | md5 contains only letters | `abcdefabcdefabcdefabcdefabcdefab` |
 | 7 | **Pi MD5** | md5 contains pi digits | `3141592653589793115997963468544185` |
