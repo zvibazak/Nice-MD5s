@@ -11,8 +11,8 @@ This is totaly a nonsence but let's find nice patterns of MD5s.
 A `nice pattern` considers as one of the below:
 | # | Name | Example | 
 |:--|:------------- |:-------------| 
-| 1 | **Perfect match** | `00000000000000000000000000000000` | 
-| 2 | **Nice match** - starts with N-same letter | `444431252d6a104a05fe4a0c6a53a999` (N=4)| 
+| 1 | **Perfect match** - md5 of one letter\digit | `00000000000000000000000000000000` | 
+| 2 | **Nice match** - md5 starts with N-same letter | `444431252d6a104a05fe4a0c6a53a999` (N=4)| 
 | 3 | **Gold MD5** - md5 of it - equal to itself | `N/A` | 
 | 4 | **Limit char** - md5 contains only N letters | `12345612345612345612345612345612` (N=6)| 
 | 5 | **MD5 of digits** - md5 contains only digits | `12345612345612345612345612345612` | 
