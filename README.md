@@ -29,4 +29,5 @@ Feel free to add your language version of the code!
 | # | Name | N | MD5 | Founder | 
 |:--|:------------- |:---|:-------------|:-------------| 
 | 1 | **Nice match** | 5 |`md5('UPSCLU4P1EW7') = 7777759f258245119a1fe75ad393d91c` |zvibazak |
-| 2 | **Limit char** | 7 |`md5('frktijg8gvbav8e8fvrjgp74ctiwrua') = ceaecc9a149c19ffda444adc94ad44fd`|zvibazak |
+| 2 | **Limit char** | 6 |`md5('h0ap8pfw60p7y1lyu1zrpl9bgbfyf0v7') = a5150801ab0f4a00aa108fa4ba5141b4`|zvibazak |
+| 3 | **MD5 of digits** | - |`md5('r8z43szwn6duks2yoqf6eaugebdjdhfk') = 52028506537132879258425329778418`|zvibazak |
