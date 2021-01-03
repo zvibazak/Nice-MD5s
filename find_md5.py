@@ -7,7 +7,7 @@ import math
 
 start = time.time()
 N_nice_match = 7
-limit_char = 6
+limit_char = 8
 counter=0
 try:
 	while(True):
@@ -20,10 +20,10 @@ try:
 			print("N_nice_match of %d was found!!!!" % N_nice_match,text,my_hash)
 		if text==my_hash:
 			print("Gold MD5 was found!!!!",text,my_hash)
-		if len(set(my_hash))==8:
+		if len(set(my_hash))==limit_char:
 			print("limit char of %d MD5 was found!!!!" % limit_char,text,my_hash)
-		if my_hash.isdigit():
-			print("All digits was %d found!!!!",text,my_hash)
+		#if my_hash.isdigit():
+		#	print("All digits was found!!!!",text,my_hash)
 		if my_hash.isalpha():
 			print("All alphabetical characters was found!!!!",text,my_hash)
 		if my_hash in [format(math.pi, '.33f').replace('.',''), format(math.e, '.33f').replace('.','')]:
