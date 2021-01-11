@@ -28,6 +28,6 @@ Feel free to add your language version of the code!
 
 | # | Name | N | MD5 | Founder | 
 |:--|:------------- |:---|:-------------|:-------------| 
-| 1 | **Nice match** | 5 |`md5('UPSCLU4P1EW7') = 7777759f258245119a1fe75ad393d91c` |zvibazak |
+| 1 | **Nice match** | 6 |`md5('5tiyuun36bzuyvp9yxxcu9s278ugrteo') = 2222225724920edd3003abddc5afe605` |zvibazak |
 | 2 | **Limit char** | 7 |`md5('kkh8j1n5sle3vzb1v5f6ll7pc1x9ne7u') = 8aac28ffafe8aeccfaafa8ec8a6f82ce`|zvibazak |
 | 3 | **MD5 of digits** | - |`md5('r8z43szwn6duks2yoqf6eaugebdjdhfk') = 52028506537132879258425329778418`|zvibazak |
