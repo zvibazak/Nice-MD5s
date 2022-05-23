@@ -30,5 +30,9 @@ Feel free to add your language version of the code!
 |:--|:------------- |:---|:-------------|:-------------| 
 | 1 | **Nice match** | 9 |`md5('8teyu1mjb014j2mlt8c527cejx6gyfat') = 888888888ff2f2e45199d0ef65b7fea2` |marcdtheking |
 | 2 | **Limit char** | 7 |`md5('kkh8j1n5sle3vzb1v5f6ll7pc1x9ne7u') = 8aac28ffafe8aeccfaafa8ec8a6f82ce`|zvibazak |
-| 3 | **MD5 of digits** | - |`md5('r8z43szwn6duks2yoqf6eaugebdjdhfk') = 52028506537132879258425329778418`|zvibazak |
+| 3 | **MD5 of digits** | 32! |`md5('r8z43szwn6duks2yoqf6eaugebdjdhfk') = 52028506537132879258425329778418`|zvibazak |
+| 4 | **MD5 of letters** | 16 |`md5('27oscijdmu32z8oy2l8dm1i7tixgo7sf') = adefbaefcdeeaeec374b92e82fc675a3`|zvibazak |
+| 5 | **Pi MD5** | 6 |`md5('36m4nislm0kg5n160k1muyg8kmuwwg45') = 3141591e247ecba31286db79ae9b67a0`|zvibazak |
+| 6 | **e MD5** | 7 |`md5('593890wfhxvwi9yo1s3cwqavmrhrojt6') = 27182817b60a112000cdbae16cf00502`|zvibazak |
+
 
