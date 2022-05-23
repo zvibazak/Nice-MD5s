@@ -24,7 +24,7 @@ try:
 			print("Perfect match of %d was found!" % N_perfect_match, text, my_hash)
 		if len(set(my_hash[:N_nice_match]))==1:
 			print("N_nice_match of %d was found!" % N_nice_match, text, my_hash)
-		if text==my_hash:
+		if text[:N_gold_md5]==my_hash[:N_gold_md5]:
 			print("Gold MD5 of %d was found!" % N_gold_md5, text, my_hash)
 		if len(set(my_hash))<=N_limit_char:
 			print("limit char of %d MD5 was found!" % N_limit_char, text, my_hash)
