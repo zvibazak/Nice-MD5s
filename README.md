@@ -27,7 +27,7 @@ Feel free to add your language version of the code!
 
 | # | Name | N | MD5 | Founder | 
 |:--|:------------- |:---|:-------------|:-------------| 
-| 1 | **MD5 of digits** | 32! |`md5('r8z43szwn6duks2yoqf6eaugebdjdhfk') =` **52028506537132879258425329778418**|zvibazak |
+| 1 | **MD5 of digits** | **32** |`md5('r8z43szwn6duks2yoqf6eaugebdjdhfk') =` **52028506537132879258425329778418**|zvibazak |
 | 2 | **MD5 of letters** | 21 |`md5('stngf63cv8gjzfss95hkcihqpatxam64') =` **ebdbaaefddcfdfcfdabff**4675d4b832c|zvibazak |
 | 3 | **Nice match** | 9 |`md5('8teyu1mjb014j2mlt8c527cejx6gyfat') =` **888888888**ff2f2e45199d0ef65b7fea2 |marcdtheking |
 | 4 | **e MD5** | 8 |`md5('us5rthcbjhhemvllo84dd78wrbt1gzu8') =` **27182818**8d69458862beb75e836ea2da|zvibazak |
