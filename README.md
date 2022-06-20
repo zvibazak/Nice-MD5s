@@ -27,9 +27,9 @@ Feel free to add your language version of the code!
 
 | # | Name | N | MD5 | Founder | 
 |:--|:------------- |:---|:-------------|:-------------| 
-| 1 | **MD5 of digits** | **32** |`md5('r8z43szwn6duks2yoqf6eaugebdjdhfk') =` **52028506537132879258425329778418**|zvibazak |
-| 2 | **MD5 of letters** | 21 |`md5('stngf63cv8gjzfss95hkcihqpatxam64') =` **ebdbaaefddcfdfcfdabff**4675d4b832c|zvibazak |
-| 3 | **Nice match** | 9 |`md5('8teyu1mjb014j2mlt8c527cejx6gyfat') =` **888888888**ff2f2e45199d0ef65b7fea2 |marcdtheking |
-| 4 | **e MD5** | 8 |`md5('us5rthcbjhhemvllo84dd78wrbt1gzu8') =` **27182818**8d69458862beb75e836ea2da|zvibazak |
-| 5 | **Pi MD5** | 7 |`md5('hvm97m3cqx33kqsewub1cekqqawb1y16') =` **3141592**f6b8ccecc81f16843277bda04|zvibazak |
-| 6 | **Gold MD5** | 6 |`md5('835ad7qteqjtrl2n63e93wqfvr4hllxg') =` **835ad7**ca01a115ae05494eec89bdf344|zvibazak |
+| 1 | **MD5 of digits** | **32** |`md5('r8z43szwn6duks2yoqf6eaugebdjdhfk') =` **52028506537132879258425329778418** | zvibazak |
+| 2 | **MD5 of letters** | 21 |`md5('stngf63cv8gjzfss95hkcihqpatxam64') =` **ebdbaaefddcfdfcfdabff**4675d4b832c | zvibazak |
+| 3 | **Gold MD5** | 12 |`md5('54db1011d76dc70a0a9df3ff3e0b390f') =` **54db1011d76d**137956603122ad86d762 | [Thomas Egense](https://stackoverflow.com/a/28941658/1909132) |
+| 4 | **Nice match** | 9 |`md5('8teyu1mjb014j2mlt8c527cejx6gyfat') =` **888888888**ff2f2e45199d0ef65b7fea2 | marcdtheking |
+| 5 | **e MD5** | 8 |`md5('us5rthcbjhhemvllo84dd78wrbt1gzu8') =` **27182818**8d69458862beb75e836ea2da | zvibazak |
+| 6 | **Pi MD5** | 7 |`md5('hvm97m3cqx33kqsewub1cekqqawb1y16') =` **3141592**f6b8ccecc81f16843277bda04 | zvibazak |
