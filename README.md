@@ -3,7 +3,7 @@ Let's find `nice patterns` of MD5!!
 
 > The MD5 message-digest algorithm is a widely used hash function producing a 128-bit hash value. ([Wikipedia](https://en.wikipedia.org/wiki/MD5))
 
-This is totaly a nonsence but let's find nice patterns of MD5s.
+This is **totaly a nonsence** but let's find nice patterns of MD5s.
 
 
 ## Definitions
