@@ -11,7 +11,7 @@ N_gold_md5 = 7
 N_MD5_of_digits = 32
 N_MD5_of_letters = 22
 N_Pi_MD5 = 8
-N_e_MD5 = 8
+N_e_MD5 = 9
 
 counter=0
 try:
