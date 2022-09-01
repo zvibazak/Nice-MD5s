@@ -28,7 +28,7 @@ Feel free to add your language version of the code!
 | # | Name | N | MD5 | Founder | 
 |:--|:------------- |:---|:-------------|:-------------| 
 | 1 | **MD5 of digits** | **32** |`md5('r8z43szwn6duks2yoqf6eaugebdjdhfk') =` **52028506537132879258425329778418** | zvibazak |
-| 2 | **MD5 of letters** | 24 |`md5('c4njz1bksj4t7bg4iell9x9a02robk1e') =` **fbabcabadbfaaabdcaaacbec**1a2d86f0 | zvibazak |
+| 2 | **MD5 of letters** | 25 |`md5('8f980d694e5beefed4feb669a0c7de3a') =` **fdffbedbbfbadffaafbfadceb**51b30fe | zvibazak |
 | 3 | **Gold MD5** | 12 |`md5('54db1011d76dc70a0a9df3ff3e0b390f') =` **54db1011d76d**137956603122ad86d762 | [Thomas Egense](https://stackoverflow.com/a/28941658/1909132) |
 | 4 | **Nice match** | 9 |`md5('8teyu1mjb014j2mlt8c527cejx6gyfat') =` **888888888**ff2f2e45199d0ef65b7fea2 | marcdtheking |
 | 5 | **e MD5** | 8 |`md5('us5rthcbjhhemvllo84dd78wrbt1gzu8') =` **27182818**8d69458862beb75e836ea2da | zvibazak |
