@@ -32,4 +32,4 @@ Feel free to add your language version of the code!
 | 3 | **Gold MD5** | 12 |`md5('54db1011d76dc70a0a9df3ff3e0b390f') =` **54db1011d76d**137956603122ad86d762 | [Thomas Egense](https://stackoverflow.com/a/28941658/1909132) |
 | 4 | **Nice match** | 9 |`md5('8teyu1mjb014j2mlt8c527cejx6gyfat') =` **888888888**ff2f2e45199d0ef65b7fea2 | marcdtheking |
 | 5 | **e MD5** | 8 |`md5('us5rthcbjhhemvllo84dd78wrbt1gzu8') =` **27182818**8d69458862beb75e836ea2da | zvibazak |
-| 6 | **Pi MD5** | 8 |`md5('y6y8fht4enu4fo2hq73d1othbaitzi5b') =` **31415926**b87f076e8d5d422c6be787d9 | zvibazak |
+| 6 | **Pi MD5** | 9 |`md5('c22beae30efad3609730452d995ac672') =` **314159265**959a69386a4096b9ac0cd45 | zvibazak |
