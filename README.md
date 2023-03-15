@@ -28,8 +28,10 @@ Feel free to add your language version of the code!
 | # | Name | N | MD5 | Founder | 
 |:--|:------------- |:---|:-------------|:-------------| 
 | 1 | **MD5 of digits** | **32** |`md5('r8z43szwn6duks2yoqf6eaugebdjdhfk') =` **52028506537132879258425329778418** | zvibazak |
-| 2 | **MD5 of letters** | 25 |`md5('8f980d694e5beefed4feb669a0c7de3a') =` **fdffbedbbfbadffaafbfadceb**51b30fe | zvibazak |
+| 2 | **MD5 of letters** | 27 |`md5('86564eb130eaa1c997c71512973e93c0') =` **faefbbbeddcdabeebbfffdbdaeb**53a8c | [Polly](https://github.com/FuzzyLitchi) |
 | 3 | **Gold MD5** | 12 |`md5('54db1011d76dc70a0a9df3ff3e0b390f') =` **54db1011d76d**137956603122ad86d762 | [Thomas Egense](https://stackoverflow.com/a/28941658/1909132) |
 | 4 | **Nice match** | 10 |`md5('665d8e9f2d6a6c5cc54d97b1b9aaefe6') =` **2222222222**c237bb277df9573d27f13f  | zvibazak |
-| 5 | **e MD5** | 8 |`md5('us5rthcbjhhemvllo84dd78wrbt1gzu8') =` **27182818**8d69458862beb75e836ea2da | zvibazak |
+| 5 | **e MD5** | 9 |`md5('6a751b7229da6c73cb26144abc17ae7c') =` **271828182**eb107ef23900482d683ddc0 | [Polly](https://github.com/FuzzyLitchi) |
 | 6 | **Pi MD5** | 9 |`md5('c22beae30efad3609730452d995ac672') =` **314159265**959a69386a4096b9ac0cd45 | zvibazak |
+
+md5(6a751b7229da6c73cb26144abc17ae7c) 271828182eb107ef23900482d683ddc0
