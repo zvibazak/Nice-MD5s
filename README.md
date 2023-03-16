@@ -32,7 +32,7 @@ Feel free to add your language version of the code!
 | 3 | **Gold MD5** | 12 |`md5('54db1011d76dc70a0a9df3ff3e0b390f') =` **54db1011d76d**137956603122ad86d762 | [Thomas Egense](https://stackoverflow.com/a/28941658/1909132) |
 | 4 | **Nice match** | 10 |`md5('665d8e9f2d6a6c5cc54d97b1b9aaefe6') =` **2222222222**c237bb277df9573d27f13f  | zvibazak |
 | 5 | **e MD5** | 9 |`md5('6a751b7229da6c73cb26144abc17ae7c') =` **271828182**eb107ef23900482d683ddc0 | [Polly](https://github.com/FuzzyLitchi) |
-| 6 | **Pi MD5** | 9 |`md5('c22beae30efad3609730452d995ac672') =` **314159265**959a69386a4096b9ac0cd45 | zvibazak |
+| 6 | **Pi MD5** | 10 |`md5('56d2e3c0f08f1c8990a9f77138d640cb') =` **3141592653**eed64be66b9a7ff45a4223 | [Polly](https://github.com/FuzzyLitchi) |
 
 ## Links
 * [Is there an MD5 Fixed Point where md5(x) == x?](https://stackoverflow.com/questions/235785/is-there-an-md5-fixed-point-where-md5x-x) - A question on StackOverflow.
