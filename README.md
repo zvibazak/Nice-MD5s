@@ -35,7 +35,8 @@ Feel free to add your language version of the code!
 | 6 | **Pi MD5** | 9 |`md5('c22beae30efad3609730452d995ac672') =` **314159265**959a69386a4096b9ac0cd45 | zvibazak |
 
 ## Links
-* [Is there an MD5 Fixed Point where md5(x) == x?](https://stackoverflow.com/questions/235785/is-there-an-md5-fixed-point-where-md5x-x) - A question in StackOverflow.
+* [Is there an MD5 Fixed Point where md5(x) == x?](https://stackoverflow.com/questions/235785/is-there-an-md5-fixed-point-where-md5x-x) - A question on StackOverflow.
+* [MD5: Existence of invariant (fixed point)](https://crypto.stackexchange.com/questions/68674/md5-existence-of-invariant-fixed-point) - A question on crypto.stackexchange.com.
 * [Finding Nice MD5s Using Rust](https://blog.youmu.moe/posts/finding-nice-md5s-using-rust) - by [FuzzyLitchi](https://github.com/FuzzyLitchi).
 * [Rust program to find "nice" md5s](https://github.com/FuzzyLitchi/nice-md5s-rs) - by [FuzzyLitchi](https://github.com/FuzzyLitchi).
-
+* [A terminal app to find nice MD5s](https://github.com/johnmave126/nice-md5s) - by [johnmave126](https://github.com/johnmave126).
