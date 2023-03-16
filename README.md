@@ -33,3 +33,9 @@ Feel free to add your language version of the code!
 | 4 | **Nice match** | 10 |`md5('665d8e9f2d6a6c5cc54d97b1b9aaefe6') =` **2222222222**c237bb277df9573d27f13f  | zvibazak |
 | 5 | **e MD5** | 9 |`md5('6a751b7229da6c73cb26144abc17ae7c') =` **271828182**eb107ef23900482d683ddc0 | [Polly](https://github.com/FuzzyLitchi) |
 | 6 | **Pi MD5** | 9 |`md5('c22beae30efad3609730452d995ac672') =` **314159265**959a69386a4096b9ac0cd45 | zvibazak |
+
+## Links
+* [Is there an MD5 Fixed Point where md5(x) == x?](https://stackoverflow.com/questions/235785/is-there-an-md5-fixed-point-where-md5x-x) - A question in StackOverflow.
+* [Finding Nice MD5s Using Rust](https://blog.youmu.moe/posts/finding-nice-md5s-using-rust) - by [FuzzyLitchi](https://github.com/FuzzyLitchi).
+* [Rust program to find "nice" md5s](https://github.com/FuzzyLitchi/nice-md5s-rs) - by [FuzzyLitchi](https://github.com/FuzzyLitchi).
+
