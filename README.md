@@ -27,7 +27,7 @@ Feel free to add your language version of the code!
 
 | # | Name | N | MD5 | Founder | 
 |:--|:------------- |:---|:-------------|:-------------| 
-| 1 | **MD5 of digits** | **32** |`md5('r8z43szwn6duks2yoqf6eaugebdjdhfk') =` **52028506537132879258425329778418** | zvibazak |
+| 1 | **MD5 of digits** | **32** |`md5('r8z43szwn6duks2yoqf6eaugebdjdhfk') =` **52028506537132879258425329778418** | [zvibazak](https://github.com/zvibazak) |
 | 2 | **MD5 of letters** | 31 |`md5(s3i7gogs1gn9at6knh4sartreiqlppaa) =` **efadaefecffacfcdcebbafacbfeadbd**3 | [johnmave126](https://github.com/johnmave126) |
 | 3 | **Gold MD5** | 12 |`md5('54db1011d76dc70a0a9df3ff3e0b390f') =` **54db1011d76d**137956603122ad86d762 | [Thomas Egense](https://stackoverflow.com/a/28941658/1909132) |
 | 4 | **Nice match** | 11 |`md5(k4gdqjwk641meqx4fqinagckq4q6sqgk) =` **77777777777**1313bfb8042d99437c4ff  | [johnmave126](https://github.com/johnmave126) |
