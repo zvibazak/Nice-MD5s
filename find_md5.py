@@ -1,21 +1,19 @@
 import random
-import string
 from time import sleep, time, perf_counter
 from hashlib import md5
-import math
-import secrets 
 import datetime
 
 PI = "31415926535897931159979634685441"
 E  = "27182818284590450907955982984276"
 start = time()
-N_perfect_match = 11
-N_nice_match = 11
-N_gold_md5 = 13
+
+# Current records:
 N_MD5_of_digits = 32
-N_MD5_of_letters = 26
-N_Pi_MD5 = 10
-N_e_MD5 = 10
+N_MD5_of_letters = 32
+N_gold_md5 = 13
+N_nice_match = 12
+N_Pi_MD5 = 12
+N_e_MD5 = 12
 
 password_length = 16
 counter=0
@@ -35,8 +33,6 @@ text = ('%32x' % random.randrange(16**32))
 try:
         while(True):
                 tic = perf_counter()
-                #text = ''.join(random.choice(string.ascii_lowercase + string.digits) for _ in range(32))
-                #text = secrets.token_hex(password_length)
                 text = hex(int(text,16)+1)
                 toc = perf_counter()
                 rand_time+=toc - tic
@@ -47,15 +43,14 @@ try:
                 md5_time+=toc - tic
 
                 tic = perf_counter()
-                if len(set(my_hash))==1:
-                        print_find("Perfect match of %d was found!" % N_perfect_match, text, my_hash)
                 if len(set(my_hash[:N_nice_match]))==1:
                         print_find("N_nice_match of %d was found!" % N_nice_match, text, my_hash)
                 if text[:N_gold_md5]==my_hash[:N_gold_md5]:
                         print_find("Gold MD5 of %d was found!" % N_gold_md5, text, my_hash)
-# FOUND...
-#               if my_hash[:N_MD5_of_digits].isdigit():
-#                       print_find("MD5 of digits of %d was found!" % N_MD5_of_digits, text, my_hash)
+                # FOUND...
+                #if my_hash[:N_MD5_of_digits].isdigit():
+                #    print_find("MD5 of digits of %d was found!" % N_MD5_of_digits, text, my_hash)
+                
                 if my_hash[:N_MD5_of_letters].isalpha():
                         print_find("MD5 of letters of %d was found!" % N_MD5_of_letters, text, my_hash)
                 if my_hash[:N_Pi_MD5] == PI[:N_Pi_MD5]:
