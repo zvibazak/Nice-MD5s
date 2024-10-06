@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nice-MD5 Finder</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Nice-MD5 Finder</h1>
+        <p>We are attempting to find an input value <strong>x</strong> such that:</p>
+        <p><strong>The MD5 hash of x starts with x itself (first N characters match)</strong></p>
+        <p>Current best record: <span id="record">N = 12</span> (i.e., the first 12 characters of the hash match the input)</p>
+        <div class="n-value">
+            <p>Choose how many characters (N) you want to match:</p>
+            <div class="n-buttons">
+                <button id="decreaseN">-</button>
+                <span id="nValueDisplay">13</span>
+                <button id="increaseN">+</button>
+            </div>
+        </div>
+        <div class="buttons">
+            <button id="startButton" class="start">Start Finding</button>
+            <button id="stopButton" class="stop">Stop</button>
+        </div>
+        <p class="record">Total number of attempts: <span class="counter" id="counter">0</span></p>
+        <p class="workers-status">Active workers: <span id="workersCount">0</span></p>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>

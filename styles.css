@@ -1,0 +1,70 @@
+/* styles.css */
+body {
+    font-family: Arial, sans-serif;
+    background: #f0f0f0;
+    color: #333;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+.container {
+    background: #ffffff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    max-width: 400px;
+}
+.buttons {
+    margin-top: 20px;
+}
+button {
+    padding: 10px 20px;
+    margin: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 1em;
+}
+.start {
+    background: #28a745;
+    color: white;
+}
+.stop {
+    background: #dc3545;
+    color: white;
+}
+.record {
+    font-size: 1.2em;
+    margin-top: 10px;
+}
+.counter {
+    font-weight: bold;
+}
+.workers-status {
+    margin-top: 10px;
+    font-size: 1em;
+}
+.n-value {
+    margin-top: 20px;
+    font-size: 1em;
+}
+.n-buttons {
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.n-buttons button {
+    width: 40px;
+    height: 40px;
+    font-size: 1.2em;
+}
+#nValueDisplay {
+    margin: 0 10px;
+    font-size: 1.2em;
+    width: 40px;
+    text-align: center;
+}
