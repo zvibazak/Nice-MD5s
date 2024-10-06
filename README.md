@@ -5,6 +5,7 @@ Let's find `nice patterns` of MD5!!
 
 This is **totaly a nonsence** but let's find nice patterns of MD5s.
 
+[A small web site to find](https://zvibazak.github.io/Nice-MD5s/)
 
 ## Definitions
 
