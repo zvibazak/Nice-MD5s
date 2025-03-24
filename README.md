@@ -29,11 +29,11 @@ Feel free to add your language version of the code!
 | # | Name | N | MD5 | Founder | 
 |:--|:------------- |:---|:-------------|:-------------| 
 | 1 | **MD5 of digits** | **32** |`md5('r8z43szwn6duks2yoqf6eaugebdjdhfk') =` **52028506537132879258425329778418** | [zvibazak](https://github.com/zvibazak) |
-| 2 | **MD5 of letters** | 31 |`md5(s3i7gogs1gn9at6knh4sartreiqlppaa) =` **efadaefecffacfcdcebbafacbfeadbd**3 | [johnmave126](https://github.com/johnmave126) |
+| 2 | **MD5 of letters** | **32** |`md5(b100d474eb100d60d0421b2afb8164ae) =` **adeeabedeabdbeffbcbdeeadaacedaaf** | [Polly](https://github.com/FuzzyLitchi) |
 | 3 | **Gold MD5** | 12 |`md5('54db1011d76dc70a0a9df3ff3e0b390f') =` **54db1011d76d**137956603122ad86d762 | [Thomas Egense](https://stackoverflow.com/a/28941658/1909132) |
-| 4 | **Nice match** | 11 |`md5(k4gdqjwk641meqx4fqinagckq4q6sqgk) =` **77777777777**1313bfb8042d99437c4ff  | [johnmave126](https://github.com/johnmave126) |
-| 5 | **Pi MD5** | 11 |`md5(b100d474eb100d60d000b08822844917) =` **31415926535**f1ade4ad780c95815f2dc | [Polly](https://github.com/FuzzyLitchi) |
-| 6 | **e MD5** | 11 |`md5(6nencc64tsdhlmfa3ghsvnpe7i1us4ai) =` **27182818284**d93f1072d42d3b215d83b | [johnmave126](https://github.com/johnmave126) |
+| 4 | **Nice match** | 13 |`md5(b100d474eb100d60d042e863c1e0adee) =` **0000000000000**8d71ef80eb3849237d2  | [Polly](https://github.com/FuzzyLitchi) |
+| 5 | **Pi MD5** | 12 |`md5(b100d474eb100d60d04261106c3f04b5) =` **314159265358**ea7fd5dc7f0fab21378a | [Polly](https://github.com/FuzzyLitchi) |
+| 6 | **e MD5** | 12 |`md5(b100d474eb100d60d069f893a7c2ac27) =` **271828182845**3f28da829b05f35113e2 | [Polly](https://github.com/FuzzyLitchi) |
 
 ## Links
 * [Is there an MD5 Fixed Point where md5(x) == x?](https://stackoverflow.com/questions/235785/is-there-an-md5-fixed-point-where-md5x-x) - A question on StackOverflow.
