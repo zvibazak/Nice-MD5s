@@ -38,6 +38,7 @@ Feel free to add your language version of the code!
 ## Links
 * [Is there an MD5 Fixed Point where md5(x) == x?](https://stackoverflow.com/questions/235785/is-there-an-md5-fixed-point-where-md5x-x) - A question on StackOverflow.
 * [MD5: Existence of invariant (fixed point)](https://crypto.stackexchange.com/questions/68674/md5-existence-of-invariant-fixed-point) - A question on crypto.stackexchange.com.
+* [Can an MD5 hash have ONLY numbers or ONLY letters in it?](https://stackoverflow.com/questions/6825714/can-an-md5-hash-have-only-numbers-or-only-letters-in-it) - A question on StackOverflow.
 * [Finding Nice MD5s Using Rust](https://blog.youmu.moe/posts/finding-nice-md5s-using-rust) - by 妖夢ちゃん (submitted by [FuzzyLitchi](https://github.com/FuzzyLitchi)).
 * [Rust program to find "nice" md5s](https://github.com/FuzzyLitchi/nice-md5s-rs) - by [FuzzyLitchi](https://github.com/FuzzyLitchi).
 * [A terminal app to find nice MD5s](https://github.com/johnmave126/nice-md5s) - by [johnmave126](https://github.com/johnmave126).
