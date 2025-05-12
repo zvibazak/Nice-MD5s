@@ -32,10 +32,10 @@ Feel free to add your language version of the code!
 | 1 | **MD5 of digits** | ✅ **32** |`md5('r8z43szwn6duks2yoqf6eaugebdjdhfk') =` **52028506537132879258425329778418** | [zvibazak](https://github.com/zvibazak) |
 | 2 | **MD5 of letters** | ✅ **32** |`md5(b100d474eb100d60d0421b2afb8164ae) =` **adeeabedeabdbeffbcbdeeadaacedaaf** | [Polly](https://github.com/FuzzyLitchi) |
 | 3 | **Gold MD5** | 12 |`md5('54db1011d76dc70a0a9df3ff3e0b390f') =` **54db1011d76d**137956603122ad86d762 | [Thomas Egense](https://stackoverflow.com/a/28941658/1909132) |
-| 4 | **Nice match** | 13 |`md5(b100d474eb100d60d042e863c1e0adee) =` **0000000000000**8d71ef80eb3849237d2  | [Polly](https://github.com/FuzzyLitchi) |
-| 5 | **Pi MD5** | 12 |`md5(b100d474eb100d60d04261106c3f04b5) =` **314159265358**ea7fd5dc7f0fab21378a | [Polly](https://github.com/FuzzyLitchi) |
-| 6 | **e MD5** | 12 |`md5(b100d474eb100d60d069f893a7c2ac27) =` **271828182845**3f28da829b05f35113e2 | [Polly](https://github.com/FuzzyLitchi) |
-| 7 | **Prefix and Suffix** | 4 |`md5(1234f7520c2e4c1204c8c14f3d31259a) =` **1234**aee3988ccd2b48751ca7543d**259a** | [tianshuo](https://github.com/tianshuo) |
+| 4 | **Nice match** | 13 |`md5('b100d474eb100d60d042e863c1e0adee') =` **0000000000000**8d71ef80eb3849237d2  | [Polly](https://github.com/FuzzyLitchi) |
+| 5 | **Pi MD5** | 12 |`md5('b100d474eb100d60d04261106c3f04b5') =` **314159265358**ea7fd5dc7f0fab21378a | [Polly](https://github.com/FuzzyLitchi) |
+| 6 | **e MD5** | 12 |`md5('b100d474eb100d60d069f893a7c2ac27') =` **271828182845**3f28da829b05f35113e2 | [Polly](https://github.com/FuzzyLitchi) |
+| 7 | **Prefix and Suffix** | 4 |`md5('1234f7520c2e4c1204c8c14f3d31259a') =` **1234**aee3988ccd2b48751ca7543d**259a** | [tianshuo](https://github.com/tianshuo) |
 
 ## Links
 * [Is there an MD5 Fixed Point where md5(x) == x?](https://stackoverflow.com/questions/235785/is-there-an-md5-fixed-point-where-md5x-x) - A question on StackOverflow.
