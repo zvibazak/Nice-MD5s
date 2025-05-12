@@ -19,6 +19,7 @@ A `nice pattern` considers as one of the below:
 | 5 | **MD5 of letters** | md5 contains only letters | `abcdefabcdefabcdefabcdefabcdefab` |
 | 6 | **Pi MD5** | md5 contains pi digits | `3141592653589793115997963468544185` |
 | 7 | **e MD5** | md5 contains contant e digits | `2718281828459045090795598298427649` |
+| 8 | **Prefix and Suffix** | md5 contains N prefix and suffix equal to itself | `XXrandomYY` |
 
 Please see the attached Python code to run on your computer, and add a `pull request` if you find new one (a credit is promised!).
 
@@ -34,6 +35,7 @@ Feel free to add your language version of the code!
 | 4 | **Nice match** | 13 |`md5(b100d474eb100d60d042e863c1e0adee) =` **0000000000000**8d71ef80eb3849237d2  | [Polly](https://github.com/FuzzyLitchi) |
 | 5 | **Pi MD5** | 12 |`md5(b100d474eb100d60d04261106c3f04b5) =` **314159265358**ea7fd5dc7f0fab21378a | [Polly](https://github.com/FuzzyLitchi) |
 | 6 | **e MD5** | 12 |`md5(b100d474eb100d60d069f893a7c2ac27) =` **271828182845**3f28da829b05f35113e2 | [Polly](https://github.com/FuzzyLitchi) |
+| 7 | **Prefix and Suffix** | 4 |`md5(1234f7520c2e4c1204c8c14f3d31259a) =` **1234**aee3988ccd2b48751ca7543d**259a** | [tianshuo](https://github.com/tianshuo) |
 
 ## Links
 * [Is there an MD5 Fixed Point where md5(x) == x?](https://stackoverflow.com/questions/235785/is-there-an-md5-fixed-point-where-md5x-x) - A question on StackOverflow.
